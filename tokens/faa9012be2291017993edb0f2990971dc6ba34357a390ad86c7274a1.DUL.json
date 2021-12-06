@@ -1,0 +1,9 @@
+{
+    "policyId": "faa9012be2291017993edb0f2990971dc6ba34357a390ad86c7274a1",
+    "name": "Dulcinea",
+    "symbol": "DUL",
+    "website": "https://dulcinea.io",
+    "description": "Cardano Utility Token",
+    "totalSupply": 2100000000,
+    "amounts": [1, 10, 100, 1000, 10000, 100000]
+}
